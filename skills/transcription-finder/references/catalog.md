@@ -41,7 +41,7 @@ Generated from data/tools.yaml. Fields: repo | stars | last push | os | flags (o
 
 ## AI 会议纪要 / AI meeting notes
 
-- https://github.com/Zackriya-Solutions/meetily | stars=32721 | pushed=2026-11-14 | os=win,mac,linux | flags=offline
+- https://github.com/Zackriya-Solutions/meetily | stars=32722 | pushed=2026-11-14 | os=win,mac,linux | flags=offline
   - 注重隐私的 AI 会议助手：在本机用 Whisper 或 Parakeet 转写，纪要可用本地 Ollama，也可接 Claude、Groq 等。
   - A privacy-first meeting assistant that transcribes on your machine with Whisper or Parakeet and summarizes with local Ollama or providers like Claude and Groq.
   - caveat: One-line install on Linux; the Windows installer needs an AVX2 CPU
@@ -76,7 +76,7 @@ Generated from data/tools.yaml. Fields: repo | stars | last push | os | flags (o
 
 ## 语音输入：说话代替打字 / Dictation: speak instead of typing
 
-- https://github.com/cjpais/Handy | stars=38882 | pushed=2026-11-15 | os=win,mac,linux | flags=offline
+- https://github.com/cjpais/Handy | stars=38883 | pushed=2026-11-15 | os=win,mac,linux | flags=offline
   - 免费开源、完全离线的语音输入：按快捷键说话，文字出现在任何输入框，不往云端发送任何信息。
   - Free, open-source and fully offline: press a shortcut, speak, and your words appear in any text field without anything sent to the cloud.
 - https://github.com/OpenWhispr/openwhispr | stars=11628 | pushed=2026-11-15 | os=mac,win,linux | flags=offline
@@ -101,7 +101,7 @@ Generated from data/tools.yaml. Fields: repo | stars | last push | os | flags (o
 - https://github.com/TypeWhisper/typewhisper-mac | stars=1927 | pushed=2026-11-15 | os=mac | flags=-
   - macOS 语音转文字加 AI 文本处理：本机模型或 Groq、OpenAI 等云端接口，结果可套用可复用的工作流。
   - Speech-to-text and AI text processing for macOS with on-device models or cloud APIs like Groq and OpenAI, plus reusable workflows.
-- https://github.com/peteonrails/voxtype | stars=1786 | pushed=2026-11-14 | os=linux | flags=offline
+- https://github.com/peteonrails/voxtype | stars=1785 | pushed=2026-11-14 | os=linux | flags=offline
   - Wayland 下按住热键说话的听写工具，普通 CPU 上也能跑出 9–11 倍实时速度，默认本地运行。
   - Push-to-talk dictation for Wayland that runs 9–11× realtime on a plain CPU and stays local by default.
 - https://github.com/amicalhq/amical | stars=1619 | pushed=2026-11-12 | os=mac,win | flags=-
@@ -214,7 +214,7 @@ Generated from data/tools.yaml. Fields: repo | stars | last push | os | flags (o
 - https://github.com/QuentinFuxa/WhisperLiveKit | stars=11253 | pushed=2026-11-14 | os=- | flags=-
   - 本地实时语音转文字服务：流式识别、说话人分离和翻译，可搭成自己的实时字幕后端。
   - A local real-time speech-to-text server with streaming ASR, diarization and translation, a backend for your own live captions.
-- https://github.com/pyannote/pyannote-audio | stars=10802 | pushed=2026-11-09 | os=- | flags=-
+- https://github.com/pyannote/pyannote-audio | stars=10803 | pushed=2026-11-09 | os=- | flags=-
   - 说话人分离的主流开源工具包。
   - The leading open-source toolkit for speaker diarization.
 - https://github.com/QwenAudio/SenseVoice | stars=9760 | pushed=2026-09-30 | os=- | flags=cn

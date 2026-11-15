@@ -12,7 +12,7 @@ Online classes, meetings, foreign-language streams and writing all depend on tur
 
 This list sorts these tools by task and shows, for each one, the systems it supports, whether it runs fully local, whether it needs your own API key and whether it is Chinese-friendly.
 
-69 projects · data refreshed 2026-11-16
+69 projects · data refreshed 2026-11-15
 
 ## Contents
 
