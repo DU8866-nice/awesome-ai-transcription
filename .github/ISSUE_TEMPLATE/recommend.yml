@@ -1,0 +1,40 @@
+name: 推荐项目 / Recommend a project
+description: 推荐一个语音转文字相关的开源项目 / Suggest an open-source speech-to-text project
+title: "[推荐] "
+labels: ["recommendation"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub 仓库 / Repository
+      placeholder: owner/name
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 分类 / Category
+      options:
+        - 实时字幕与同声传译 / Live captions and interpreting
+        - AI 会议纪要 / AI meeting notes
+        - 语音输入 / Dictation
+        - 音视频转文字和字幕 / Transcription and subtitles
+        - 看外语视频 / Foreign videos and games
+        - 手机和智能眼镜 / Phones and glasses
+        - 模型与引擎 / Models and engines
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: 推荐理由 / Why
+      description: 支持哪些系统？能本地运行吗？要不要 API Key？你实际用过吗？ / Which systems? Runs locally? Needs an API key? Have you used it?
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: 确认 / Checks
+      options:
+        - label: 不是隐身作弊或偷录类工具 / It is not a stealth cheating or secret recording tool
+          required: true

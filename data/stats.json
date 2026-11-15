@@ -1,0 +1,570 @@
+{
+ "233stone/vocotype-cli": {
+  "archived": false,
+  "created": "2025-10-13",
+  "fetched": "2026-11-16",
+  "license": "Apache-2.0",
+  "pushed": "2026-10-14",
+  "stars": 1004
+ },
+ "AbhishekBarali/SpeakoFlow": {
+  "archived": false,
+  "created": "2026-06-17",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-10-31",
+  "stars": 402
+ },
+ "Beingpax/VoiceInk": {
+  "archived": false,
+  "created": "2024-10-20",
+  "fetched": "2026-11-16",
+  "license": "NOASSERTION",
+  "pushed": "2026-11-11",
+  "stars": 7133
+ },
+ "Blue-B/WhisperSubTranslate": {
+  "archived": false,
+  "created": "2025-08-11",
+  "fetched": "2026-11-16",
+  "license": "NOASSERTION",
+  "pushed": "2026-10-10",
+  "stars": 845
+ },
+ "BryceWG/BiBi-Keyboard": {
+  "archived": false,
+  "created": "2025-10-06",
+  "fetched": "2026-11-16",
+  "license": "Apache-2.0",
+  "pushed": "2026-11-14",
+  "stars": 875
+ },
+ "Cyletix/CyIME": {
+  "archived": false,
+  "created": "2026-09-22",
+  "fetched": "2026-11-16",
+  "license": "GPL-3.0",
+  "pushed": "2026-11-14",
+  "stars": 1312
+ },
+ "FluidInference/FluidAudio": {
+  "archived": false,
+  "created": "2025-06-21",
+  "fetched": "2026-11-16",
+  "license": "Apache-2.0",
+  "pushed": "2026-11-14",
+  "stars": 3300
+ },
+ "FrigadeHQ/yogurt": {
+  "archived": false,
+  "created": "2026-11-10",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-15",
+  "stars": 1635
+ },
+ "HD838A/remote-mic-app": {
+  "archived": false,
+  "created": "2026-07-22",
+  "fetched": "2026-11-16",
+  "license": "GPL-3.0",
+  "pushed": "2026-11-15",
+  "stars": 2930
+ },
+ "HaujetZhao/CapsWriter-Offline": {
+  "archived": false,
+  "created": "2023-05-28",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-09-14",
+  "stars": 7118
+ },
+ "HiMeditator/auto-caption": {
+  "archived": false,
+  "created": "2025-05-11",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-10-14",
+  "stars": 610
+ },
+ "KorenKrita/simul-subtitle": {
+  "archived": false,
+  "created": "2026-10-11",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-10-21",
+  "stars": 119
+ },
+ "MahmoudAshraf97/whisper-diarization": {
+  "archived": false,
+  "created": "2023-01-25",
+  "fetched": "2026-11-16",
+  "license": "BSD-2-Clause",
+  "pushed": "2026-08-15",
+  "stars": 5676
+ },
+ "Mentra-Community/MentraOS": {
+  "archived": false,
+  "created": "2023-08-12",
+  "fetched": "2026-11-16",
+  "license": "Apache-2.0",
+  "pushed": "2026-11-14",
+  "stars": 2425
+ },
+ "Muesli-HQ/muesli": {
+  "archived": false,
+  "created": "2026-03-05",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-15",
+  "stars": 1628
+ },
+ "Nomily-Ai/nomily-app": {
+  "archived": false,
+  "created": "2026-08-05",
+  "fetched": "2026-11-16",
+  "license": "NOASSERTION",
+  "pushed": "2026-11-13",
+  "stars": 1012
+ },
+ "Notely-Voice/NotelyVoice": {
+  "archived": false,
+  "created": "2024-10-20",
+  "fetched": "2026-11-16",
+  "license": "GPL-3.0",
+  "pushed": "2026-11-12",
+  "stars": 824
+ },
+ "OpenMOSS/MOSS-Transcribe-Diarize": {
+  "archived": false,
+  "created": "2026-05-13",
+  "fetched": "2026-11-16",
+  "license": "Apache-2.0",
+  "pushed": "2026-10-21",
+  "stars": 2273
+ },
+ "OpenWhispr/openwhispr": {
+  "archived": false,
+  "created": "2025-06-19",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-15",
+  "stars": 11628
+ },
+ "QuentinFuxa/WhisperLiveKit": {
+  "archived": false,
+  "created": "2024-12-19",
+  "fetched": "2026-11-16",
+  "license": "Apache-2.0",
+  "pushed": "2026-11-14",
+  "stars": 11253
+ },
+ "QwenAudio/Fun-ASR": {
+  "archived": false,
+  "created": "2025-12-15",
+  "fetched": "2026-11-16",
+  "license": "Apache-2.0",
+  "pushed": "2026-11-09",
+  "stars": 1610
+ },
+ "QwenAudio/SenseVoice": {
+  "archived": false,
+  "created": "2024-07-03",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-09-30",
+  "stars": 9760
+ },
+ "QwenLM/Qwen3-ASR": {
+  "archived": false,
+  "created": "2026-01-28",
+  "fetched": "2026-11-16",
+  "license": "Apache-2.0",
+  "pushed": "2026-06-26",
+  "stars": 3901
+ },
+ "SYSTRAN/faster-whisper": {
+  "archived": false,
+  "created": "2023-02-11",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-12",
+  "stars": 26775
+ },
+ "SakiRinn/LiveCaptions-Translator": {
+  "archived": false,
+  "created": "2024-09-13",
+  "fetched": "2026-11-16",
+  "license": "Apache-2.0",
+  "pushed": "2026-08-17",
+  "stars": 4075
+ },
+ "Starmel/OpenSuperWhisper": {
+  "archived": false,
+  "created": "2025-02-06",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-10",
+  "stars": 3152
+ },
+ "TheDeathDragon/LiveTranslate": {
+  "archived": false,
+  "created": "2026-03-15",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-08-17",
+  "stars": 914
+ },
+ "TypeWhisper/typewhisper-mac": {
+  "archived": false,
+  "created": "2026-02-12",
+  "fetched": "2026-11-16",
+  "license": "GPL-3.0",
+  "pushed": "2026-11-15",
+  "stars": 1927
+ },
+ "VocaHQ/vocalinux": {
+  "archived": false,
+  "created": "2025-04-12",
+  "fetched": "2026-11-16",
+  "license": "AGPL-3.0",
+  "pushed": "2026-11-15",
+  "stars": 1019
+ },
+ "Zackriya-Solutions/meetily": {
+  "archived": false,
+  "created": "2024-12-26",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-14",
+  "stars": 32721
+ },
+ "aTrainTranscription/aTrain": {
+  "archived": false,
+  "created": "2023-10-03",
+  "fetched": "2026-11-16",
+  "license": "AGPL-3.0",
+  "pushed": "2026-11-15",
+  "stars": 1243
+ },
+ "abb128/LiveCaptions": {
+  "archived": false,
+  "created": "2022-11-30",
+  "fetched": "2026-11-16",
+  "license": "GPL-3.0",
+  "pushed": "2025-02-27",
+  "stars": 1812
+ },
+ "amicalhq/amical": {
+  "archived": false,
+  "created": "2025-05-08",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-12",
+  "stars": 1619
+ },
+ "buxuku/SmartSub": {
+  "archived": false,
+  "created": "2024-05-21",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-09",
+  "stars": 6045
+ },
+ "chidiwilliams/buzz": {
+  "archived": false,
+  "created": "2022-09-24",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-15",
+  "stars": 22823
+ },
+ "ciddwd/overlay-translator": {
+  "archived": false,
+  "created": "2026-06-22",
+  "fetched": "2026-11-16",
+  "license": "Apache-2.0",
+  "pushed": "2026-10-30",
+  "stars": 1320
+ },
+ "cjpais/Handy": {
+  "archived": false,
+  "created": "2025-02-13",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-15",
+  "stars": 38882
+ },
+ "collabora/WhisperLive": {
+  "archived": false,
+  "created": "2023-05-04",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-15",
+  "stars": 4359
+ },
+ "corvo007/MioSub": {
+  "archived": false,
+  "created": "2025-11-22",
+  "fetched": "2026-11-16",
+  "license": "AGPL-3.0",
+  "pushed": "2026-10-20",
+  "stars": 842
+ },
+ "crosswk/SayIt": {
+  "archived": false,
+  "created": "2026-05-09",
+  "fetched": "2026-11-16",
+  "license": "AGPL-3.0",
+  "pushed": "2026-11-09",
+  "stars": 490
+ },
+ "fastrepl/anarlog": {
+  "archived": false,
+  "created": "2024-12-09",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-15",
+  "stars": 9898
+ },
+ "franklioxygen/v2s": {
+  "archived": false,
+  "created": "2026-03-17",
+  "fetched": "2026-11-16",
+  "license": null,
+  "pushed": "2026-10-11",
+  "stars": 513
+ },
+ "ggml-org/whisper.cpp": {
+  "archived": false,
+  "created": "2022-09-25",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-13",
+  "stars": 55217
+ },
+ "goodroot/hyprwhspr": {
+  "archived": false,
+  "created": "2025-08-27",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-15",
+  "stars": 1280
+ },
+ "harry0703/AudioNotes": {
+  "archived": false,
+  "created": "2024-07-19",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-08-19",
+  "stars": 2564
+ },
+ "impossibleG/phorminx": {
+  "archived": false,
+  "created": "2026-09-15",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-10-29",
+  "stars": 126
+ },
+ "infiniV/VoiceFlow": {
+  "archived": false,
+  "created": "2025-12-13",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-06-21",
+  "stars": 437
+ },
+ "joewongjc/type4me": {
+  "archived": false,
+  "created": "2026-03-22",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-10",
+  "stars": 1557
+ },
+ "k2-fsa/sherpa-onnx": {
+  "archived": false,
+  "created": "2022-09-01",
+  "fetched": "2026-11-16",
+  "license": "Apache-2.0",
+  "pushed": "2026-11-13",
+  "stars": 15970
+ },
+ "m-bain/whisperX": {
+  "archived": false,
+  "created": "2022-12-09",
+  "fetched": "2026-11-16",
+  "license": "BSD-2-Clause",
+  "pushed": "2026-11-12",
+  "stars": 25340
+ },
+ "modelscope/FunASR": {
+  "archived": false,
+  "created": "2022-11-24",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-15",
+  "stars": 21033
+ },
+ "modelscope/FunClip": {
+  "archived": false,
+  "created": "2023-05-17",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-01",
+  "stars": 6562
+ },
+ "moona3k/macparakeet": {
+  "archived": false,
+  "created": "2026-02-10",
+  "fetched": "2026-11-16",
+  "license": "NOASSERTION",
+  "pushed": "2026-11-09",
+  "stars": 788
+ },
+ "nexmoe/DayBee": {
+  "archived": false,
+  "created": "2026-02-01",
+  "fetched": "2026-11-16",
+  "license": null,
+  "pushed": "2026-10-25",
+  "stars": 430
+ },
+ "niyongsheng/AudioScript": {
+  "archived": false,
+  "created": "2026-10-14",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-12",
+  "stars": 376
+ },
+ "oboroge0/hayamimi": {
+  "archived": false,
+  "created": "2026-08-25",
+  "fetched": "2026-11-16",
+  "license": "NOASSERTION",
+  "pushed": "2026-09-17",
+  "stars": 464
+ },
+ "openai/whisper": {
+  "archived": false,
+  "created": "2022-09-16",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-08-31",
+  "stars": 112797
+ },
+ "opennookorg/betterwispr": {
+  "archived": false,
+  "created": "2026-10-07",
+  "fetched": "2026-11-16",
+  "license": "Apache-2.0",
+  "pushed": "2026-11-14",
+  "stars": 539
+ },
+ "peteonrails/voxtype": {
+  "archived": false,
+  "created": "2025-11-28",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-14",
+  "stars": 1786
+ },
+ "pyannote/pyannote-audio": {
+  "archived": false,
+  "created": "2016-03-07",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-09",
+  "stars": 10802
+ },
+ "ramjke/Translumo": {
+  "archived": false,
+  "created": "2023-06-16",
+  "fetched": "2026-11-16",
+  "license": "Apache-2.0",
+  "pushed": "2026-09-22",
+  "stars": 5929
+ },
+ "silverstein/minutes": {
+  "archived": false,
+  "created": "2026-03-18",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-13",
+  "stars": 1605
+ },
+ "tancheng33/tingo": {
+  "archived": false,
+  "created": "2026-11-03",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-13",
+  "stars": 45
+ },
+ "thewh1teagle/vibe": {
+  "archived": false,
+  "created": "2024-01-08",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-14",
+  "stars": 8112
+ },
+ "tover0314-w/opentypeless": {
+  "archived": false,
+  "created": "2026-02-26",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-15",
+  "stars": 684
+ },
+ "umlx5h/LLPlayer": {
+  "archived": false,
+  "created": "2025-01-31",
+  "fetched": "2026-11-16",
+  "license": "GPL-3.0",
+  "pushed": "2026-11-05",
+  "stars": 4725
+ },
+ "voquill/voquill": {
+  "archived": false,
+  "created": "2025-09-23",
+  "fetched": "2026-11-16",
+  "license": "NOASSERTION",
+  "pushed": "2026-11-15",
+  "stars": 1029
+ },
+ "wq2012/awesome-diarization": {
+  "archived": false,
+  "created": "2019-01-19",
+  "fetched": "2026-11-16",
+  "license": "Apache-2.0",
+  "pushed": "2026-10-26",
+  "stars": 1917
+ },
+ "wquguru/cicada": {
+  "archived": false,
+  "created": "2026-11-01",
+  "fetched": "2026-11-16",
+  "license": "Apache-2.0",
+  "pushed": "2026-11-14",
+  "stars": 2301
+ },
+ "yan5xu/ququ": {
+  "archived": false,
+  "created": "2025-09-20",
+  "fetched": "2026-11-16",
+  "license": "NOASSERTION",
+  "pushed": "2025-10-08",
+  "stars": 2289
+ },
+ "yuxino/Mimi": {
+  "archived": false,
+  "created": "2026-07-22",
+  "fetched": "2026-11-16",
+  "license": "MIT",
+  "pushed": "2026-11-15",
+  "stars": 888
+ }
+}
