@@ -12,7 +12,7 @@
 
 这份清单按用途整理这些工具，标明每个工具支持什么系统、能不能完全本地运行、要不要自备 API Key，以及是否中文友好。
 
-收录 69 个项目 · 数据更新于 2026-11-15
+收录 69 个项目 · 数据更新于 2026-11-16
 
 ## 目录
 
@@ -65,13 +65,13 @@
 - **[LiveCaptions-Translator](https://github.com/SakiRinn/LiveCaptions-Translator)** · ★ 4.1k<br>Windows 自带“实时字幕”加翻译接口：系统识别准、占用低，再接上大模型翻译，不需要 Copilot+ PC。<br><sub>Windows · 更新于 2026-08 · Apache-2.0</sub><br><sub>💡 需要 Windows 11</sub>
 - **[cicada](https://github.com/wquguru/cicada)** · ★ 2.3k · 🀄 🆕<br>知了：任何会议和直播的实时双语字幕、同声传译和结构化纪要，支持腾讯会议、飞书、钉钉、Zoom、B 站直播等；按住说话键，对方能直接听到你的译文语音。<br><sub>macOS / Windows / Linux / Android · 更新于 2026-11 · Apache-2.0</sub><br><sub>💡 Apple 芯片的 Mac 上全部本机识别，其他平台看 README 说明</sub>
 - **[LiveCaptions](https://github.com/abb128/LiveCaptions)** · ★ 1.8k · 🔒 💤<br>Linux 桌面的实时字幕，桌面声音和麦克风都能识别，音频不发往任何地方。<br><sub>Linux · 更新于 2025-02 · GPL-3.0</sub><br><sub>💡 目前只支持英语</sub>
-- **[LiveTranslate](https://github.com/TheDeathDragon/LiveTranslate)** · ★ 914 · 🔑<br>Windows 实时音频翻译：抓取系统声音和麦克风，本地识别后交给大模型翻译，透明浮窗显示。<br><sub>Windows · 更新于 2026-08 · MIT</sub>
-- **[Mimi](https://github.com/yuxino/Mimi)** · ★ 888 · 🔑<br>给正在播放的视频、直播和网课加实时翻译字幕，可以只听指定应用的声音，字幕可导出为笔记；默认不保存录音。<br><sub>macOS / Windows / Linux / Android · 更新于 2026-11 · MIT</sub><br><sub>💡 Apple 芯片 Mac（macOS 26 以上）可用苹果本地识别，其他情况需要自备服务商 API Key</sub>
+- **[LiveTranslate](https://github.com/TheDeathDragon/LiveTranslate)** · ★ 915 · 🔑<br>Windows 实时音频翻译：抓取系统声音和麦克风，本地识别后交给大模型翻译，透明浮窗显示。<br><sub>Windows · 更新于 2026-08 · MIT</sub>
+- **[Mimi](https://github.com/yuxino/Mimi)** · ★ 893 · 🔑<br>给正在播放的视频、直播和网课加实时翻译字幕，可以只听指定应用的声音，字幕可导出为笔记；默认不保存录音。<br><sub>macOS / Windows / Linux / Android · 更新于 2026-11 · MIT</sub><br><sub>💡 Apple 芯片 Mac（macOS 26 以上）可用苹果本地识别，其他情况需要自备服务商 API Key</sub>
 - **[auto-caption](https://github.com/HiMeditator/auto-caption)** · ★ 610 · 🔒 🀄<br>跨平台实时字幕显示软件，可用 Vosk、SenseVoice 等本地模型，也能接 Ollama 或在线接口做翻译。<br><sub>Windows / macOS / Linux · 更新于 2026-10 · MIT</sub>
-- **[v2s](https://github.com/franklioxygen/v2s)** · ★ 513 · 🔒<br>macOS 菜单栏双语字幕条：可只抓某个应用的声音，用苹果系统自带的本地识别和翻译，还能生成摘要。<br><sub>macOS · 更新于 2026-10</sub>
+- **[v2s](https://github.com/franklioxygen/v2s)** · ★ 514 · 🔒<br>macOS 菜单栏双语字幕条：可只抓某个应用的声音，用苹果系统自带的本地识别和翻译，还能生成摘要。<br><sub>macOS · 更新于 2026-10</sub>
 - **[hayamimi](https://github.com/oboroge0/hayamimi)** · ★ 464 · 🔒<br>只用 CPU 的多语言实时转写：实时字幕、网页面板、说话人标注和即时翻译，不需要显卡和云端接口。<br><sub>更新于 2026-09</sub>
-- **[AudioScript](https://github.com/niyongsheng/AudioScript)** · ★ 376 · 🔒 🀄 🆕<br>声稿：监听系统声音，把外语播客、视频和会议实时转成“原文 + 译文”双语悬浮字幕，识别和翻译都在本机完成，作者称是讯飞同传的免费平替。<br><sub>macOS / Windows / Linux · 更新于 2026-11 · MIT</sub>
-- **[simul-subtitle](https://github.com/KorenKrita/simul-subtitle)** · ★ 119 · 🔑 🆕<br>日语、英语视频和直播的同传悬浮字幕，浮在任何播放器上方；语音识别在本地离线完成，翻译用你自己的大模型接口。<br><sub>Android / macOS / Windows · 更新于 2026-10 · MIT</sub>
+- **[AudioScript](https://github.com/niyongsheng/AudioScript)** · ★ 381 · 🔒 🀄 🆕<br>声稿：监听系统声音，把外语播客、视频和会议实时转成“原文 + 译文”双语悬浮字幕，识别和翻译都在本机完成，作者称是讯飞同传的免费平替。<br><sub>macOS / Windows / Linux · 更新于 2026-11 · MIT</sub>
+- **[simul-subtitle](https://github.com/KorenKrita/simul-subtitle)** · ★ 120 · 🔑 🆕<br>日语、英语视频和直播的同传悬浮字幕，浮在任何播放器上方；语音识别在本地离线完成，翻译用你自己的大模型接口。<br><sub>Android / macOS / Windows · 更新于 2026-10 · MIT</sub>
 
 <a id="cat-meetings"></a>
 ## AI 会议纪要
@@ -80,12 +80,12 @@ Granola、Otter、飞书妙记的开源替代：录下会议声音，转成文�
 
 - **[meetily](https://github.com/Zackriya-Solutions/meetily)** · ★ 32.7k · 🔒<br>注重隐私的 AI 会议助手：在本机用 Whisper 或 Parakeet 转写，纪要可用本地 Ollama，也可接 Claude、Groq 等。<br><sub>Windows / macOS / Linux · 更新于 2026-11 · MIT</sub><br><sub>💡 Linux 用一行命令安装；Windows 安装包需要支持 AVX2 的 CPU</sub>
 - **[anarlog](https://github.com/fastrepl/anarlog)** · ★ 9.9k<br>本地优先的开源会议记事本，Granola 的开源替代，社区版保持 MIT 开源。<br><sub>macOS / Windows / Linux · 更新于 2026-11 · MIT</sub>
-- **[yogurt](https://github.com/FrigadeHQ/yogurt)** · ★ 1.6k · 🆕<br>Granola 的免费开源替代：不往会议里加机器人，实时转写、自动写纪要，笔记留在你的电脑上。<br><sub>macOS / Windows / Linux · 更新于 2026-11 · MIT</sub>
+- **[yogurt](https://github.com/FrigadeHQ/yogurt)** · ★ 1.7k · 🆕<br>Granola 的免费开源替代：不往会议里加机器人，实时转写、自动写纪要，笔记留在你的电脑上。<br><sub>macOS / Windows / Linux · 更新于 2026-11 · MIT</sub>
 - **[muesli](https://github.com/Muesli-HQ/muesli)** · ★ 1.6k · 🔒<br>macOS 原生的听写和会议转写应用，默认本机识别，不加会议机器人，可把纪要交给 ChatGPT 或 Codex 继续处理。<br><sub>macOS · 更新于 2026-11 · MIT</sub>
 - **[minutes](https://github.com/silverstein/minutes)** · ★ 1.6k<br>本机录音转写会议、通话和语音备忘，存成你自己的 Markdown 文件，再让 Claude Code、Codex 等通过 MCP 检索。<br><sub>macOS / Linux · 更新于 2026-11 · MIT</sub>
-- **[macparakeet](https://github.com/moona3k/macparakeet)** · ★ 788 · 🔒<br>Apple 芯片 Mac 上的本地语音应用：全局听写、音视频文件转写和会议录音三合一。<br><sub>macOS · 更新于 2026-11</sub>
+- **[macparakeet](https://github.com/moona3k/macparakeet)** · ★ 789 · 🔒<br>Apple 芯片 Mac 上的本地语音应用：全局听写、音视频文件转写和会议录音三合一。<br><sub>macOS · 更新于 2026-11</sub>
 - **[VoiceFlow](https://github.com/infiniV/VoiceFlow)** · ★ 437 · 🔒<br>Windows 和 Linux 的本地 Whisper 听写，新版加入会议模式：同时录麦克风和系统声音，本地转写后用你自己的大模型写纪要。<br><sub>Windows / Linux · 更新于 2026-06 · MIT</sub>
-- **[DayBee](https://github.com/nexmoe/DayBee)** · ★ 430 · 🔒<br>托盘常驻的长时间录音应用，自动分段存档，可用苹果系统识别或 SenseVoice、Qwen3-ASR 等本地模型实时转写。<br><sub>macOS · 更新于 2026-10</sub>
+- **[DayBee](https://github.com/nexmoe/DayBee)** · ★ 431 · 🔒<br>托盘常驻的长时间录音应用，自动分段存档，可用苹果系统识别或 SenseVoice、Qwen3-ASR 等本地模型实时转写。<br><sub>macOS · 更新于 2026-10</sub>
 - **[phorminx](https://github.com/impossibleG/phorminx)** · ★ 126<br>Windows 上的本地听写、会议和研究笔记工具，可搜索文字稿，不用付费 AI 服务也能做格式整理。<br><sub>Windows · 更新于 2026-10 · MIT</sub>
 - **[tingo](https://github.com/tancheng33/tingo)** · ★ 45 · 🔒 🀄 🆕<br>听过：为中文会议做的本地纪要工具，录腾讯会议、飞书、Zoom 和麦克风，本地用 FunASR 转写并区分说话人，纪要里每条结论都能点回原话。<br><sub>Windows / macOS / Linux · 更新于 2026-11 · MIT</sub><br><sub>💡 纪要可用 DeepSeek、通义千问等接口，也可用本地 Ollama 全程断网</sub>
 
@@ -95,7 +95,7 @@ Granola、Otter、飞书妙记的开源替代：录下会议声音，转成文�
 按住快捷键说话，松开文字就出现在光标处，很多还能用大模型顺手润色。Wispr Flow、Superwhisper 的开源替代。
 
 - **[Handy](https://github.com/cjpais/Handy)** · ★ 38.9k · 🔒<br>免费开源、完全离线的语音输入：按快捷键说话，文字出现在任何输入框，不往云端发送任何信息。<br><sub>Windows / macOS / Linux · 更新于 2026-11 · MIT</sub>
-- **[openwhispr](https://github.com/OpenWhispr/openwhispr)** · ★ 11.6k · 🔒<br>Wispr Flow 和 Granola 的开源替代：语音输入、会议转写和笔记，可用本地 Parakeet、Whisper，也可接自己的云端接口。<br><sub>macOS / Windows / Linux · 更新于 2026-11 · MIT</sub>
+- **[openwhispr](https://github.com/OpenWhispr/openwhispr)** · ★ 11.7k · 🔒<br>Wispr Flow 和 Granola 的开源替代：语音输入、会议转写和笔记，可用本地 Parakeet、Whisper，也可接自己的云端接口。<br><sub>macOS / Windows / Linux · 更新于 2026-11 · MIT</sub>
 - **[VoiceInk](https://github.com/Beingpax/VoiceInk)** · ★ 7.1k<br>macOS 上几乎即时的语音转文字应用，注重隐私和效率。<br><sub>macOS · 更新于 2026-11</sub><br><sub>💡 源码开源可自行编译；官网编译版收费，提供免费试用</sub>
 - **[CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline)** · ★ 7.1k · 🔒 🀄<br>按住 CapsLock 说话、松开上屏的 Windows 离线语音输入，中文数字自动转换、热词和正则替换，还能把音视频文件转成字幕。<br><sub>Windows · 更新于 2026-09 · MIT</sub>
 - **[OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)** · ★ 3.2k · 🔒<br>macOS 实时录音转写，可选 Whisper 或 Parakeet 引擎，支持自定义快捷键。<br><sub>macOS · 更新于 2026-11 · MIT</sub>
@@ -108,10 +108,10 @@ Granola、Otter、飞书妙记的开源替代：录下会议声音，转成文�
 - **[hyprwhspr](https://github.com/goodroot/hyprwhspr)** · ★ 1.3k<br>Linux 原生全局听写，支持 Parakeet、Whisper、Qwen3-ASR 等多种引擎，主流发行版都能装。<br><sub>Linux · 更新于 2026-11 · MIT</sub>
 - **[voquill](https://github.com/voquill/voquill)** · ★ 1.0k<br>跨平台 AI 语音打字：在任何桌面应用里听写，AI 清理文字稿，个人词库同步。<br><sub>Windows / macOS / Linux · 更新于 2026-11</sub>
 - **[vocalinux](https://github.com/VocaHQ/vocalinux)** · ★ 1.0k · 🔒<br>Linux 上 100% 离线的语音听写，在任何地方说话打字，基于 whisper.cpp 等引擎。<br><sub>Linux · 更新于 2026-11 · AGPL-3.0</sub>
-- **[opentypeless](https://github.com/tover0314-w/opentypeless)** · ★ 684<br>Wispr Flow、Superwhisper 的开源替代：语音输入、改写和语音问答，支持自带 API Key 或本地 Ollama。<br><sub>macOS / Windows / Linux · 更新于 2026-11 · MIT</sub>
-- **[betterwispr](https://github.com/opennookorg/betterwispr)** · ★ 539 · 🔒 🆕<br>macOS 免费开源听写：按住 ⌥ 空格说话，本机用 Whisper、Parakeet 或苹果语音识别，选了云端接口才会上传。<br><sub>macOS · 更新于 2026-11 · Apache-2.0</sub>
+- **[opentypeless](https://github.com/tover0314-w/opentypeless)** · ★ 686<br>Wispr Flow、Superwhisper 的开源替代：语音输入、改写和语音问答，支持自带 API Key 或本地 Ollama。<br><sub>macOS / Windows / Linux · 更新于 2026-11 · MIT</sub>
+- **[betterwispr](https://github.com/opennookorg/betterwispr)** · ★ 540 · 🔒 🆕<br>macOS 免费开源听写：按住 ⌥ 空格说话，本机用 Whisper、Parakeet 或苹果语音识别，选了云端接口才会上传。<br><sub>macOS · 更新于 2026-11 · Apache-2.0</sub>
 - **[SayIt](https://github.com/crosswk/SayIt)** · ★ 490 · 🀄<br>随口说、出色写：按快捷键说话，AI 把口语整理成书面文字，直接输入到光标位置。<br><sub>Windows / macOS · 更新于 2026-11 · AGPL-3.0</sub>
-- **[SpeakoFlow](https://github.com/AbhishekBarali/SpeakoFlow)** · ★ 402 · 🔒<br>免费开源的语音输入和 AI 助手，默认本地运行，说话打字、提问回答，还能整理会议纪要。<br><sub>Windows / macOS / Linux · 更新于 2026-10 · MIT</sub>
+- **[SpeakoFlow](https://github.com/AbhishekBarali/SpeakoFlow)** · ★ 403 · 🔒<br>免费开源的语音输入和 AI 助手，默认本地运行，说话打字、提问回答，还能整理会议纪要。<br><sub>Windows / macOS / Linux · 更新于 2026-10 · MIT</sub>
 
 <a id="cat-files"></a>
 ## 录音、音视频转文字和字幕生成
@@ -121,7 +121,7 @@ Granola、Otter、飞书妙记的开源替代：录下会议声音，转成文�
 - **[buzz](https://github.com/chidiwilliams/buzz)** · ★ 22.8k · 🔒<br>在自己电脑上离线转写和翻译音频，基于 OpenAI Whisper，有图形界面，最老牌的选择之一。<br><sub>Windows / macOS / Linux · 更新于 2026-11 · MIT</sub><br><sub>💡 Intel Mac 最后支持的版本是 1.4.5</sub>
 - **[vibe](https://github.com/thewh1teagle/vibe)** · ★ 8.1k · 🔒<br>在本机转写音频和视频，界面简洁，支持多种导出格式。<br><sub>Windows / macOS / Linux · 更新于 2026-11 · MIT</sub>
 - **[FunClip](https://github.com/modelscope/FunClip)** · ★ 6.6k · 🔒 🀄<br>阿里通义实验室的开源视频剪辑工具：用 FunASR 识别出文字稿，选中文字就能剪出对应片段并生成字幕，本地运行。<br><sub>更新于 2026-11 · MIT</sub>
-- **[SmartSub](https://github.com/buxuku/SmartSub)** · ★ 6.0k · 🔒 🀄<br>妙幕：视频转字幕、字幕翻译、AI 配音和字幕烧录的一站式桌面工具，用 Whisper、FunASR 等本地模型离线识别，可批量处理。<br><sub>Windows / macOS / Linux · 更新于 2026-11 · MIT</sub>
+- **[SmartSub](https://github.com/buxuku/SmartSub)** · ★ 6.1k · 🔒 🀄<br>妙幕：视频转字幕、字幕翻译、AI 配音和字幕烧录的一站式桌面工具，用 Whisper、FunASR 等本地模型离线识别，可批量处理。<br><sub>Windows / macOS / Linux · 更新于 2026-11 · MIT</sub>
 - **[AudioNotes](https://github.com/harry0703/AudioNotes)** · ★ 2.6k · 🔒 🀄<br>本地把会议、访谈、课程和语音备忘转成文字，整理成 Markdown 笔记，还能针对内容提问；用 FunASR 和 Ollama，默认不发给第三方。<br><sub>更新于 2026-08 · MIT</sub>
 - **[aTrain](https://github.com/aTrainTranscription/aTrain)** · ★ 1.2k · 🔒<br>格拉茨大学研究者开发的离线转写工具，适合访谈和研究录音，自动区分说话人，不上传任何数据。<br><sub>Windows / macOS / Linux · 更新于 2026-11 · AGPL-3.0</sub>
 - **[WhisperSubTranslate](https://github.com/Blue-B/WhisperSubTranslate)** · ★ 845 · 🔒<br>把视频变成多语言字幕：本地用 whisper.cpp 生成字幕，再用下载的离线翻译模型或在线引擎翻译。<br><sub>更新于 2026-10</sub>
@@ -132,7 +132,7 @@ Granola、Otter、飞书妙记的开源替代：录下会议声音，转成文�
 
 - **[Translumo](https://github.com/ramjke/Translumo)** · ★ 5.9k<br>实时屏幕翻译，适合游戏、视频里的硬字幕和其他画面文字。<br><sub>更新于 2026-09 · Apache-2.0</sub>
 - **[LLPlayer](https://github.com/umlx5h/LLPlayer)** · ★ 4.7k<br>为学语言设计的播放器：双语字幕、AI 生成字幕、实时翻译和查词。<br><sub>Windows · 更新于 2026-11 · GPL-3.0</sub>
-- **[overlay-translator](https://github.com/ciddwd/overlay-translator)** · ★ 1.3k<br>免 root 的安卓屏幕实时翻译，适合游戏、视觉小说和漫画，支持端侧和云端识别、离线大模型，译文直接盖在画面上。<br><sub>Android · 更新于 2026-10 · Apache-2.0</sub>
+- **[overlay-translator](https://github.com/ciddwd/overlay-translator)** · ★ 1.3k<br>免 root 的安卓屏幕实时翻译，适合游戏、视觉小说和漫画，支持端侧和云端识别、离线大模型，译文直接盖在画面上。<br><sub>Android · 更新于 2026-11 · Apache-2.0</sub>
 
 <a id="cat-mobile"></a>
 ## 手机和智能眼镜
@@ -140,8 +140,8 @@ Granola、Otter、飞书妙记的开源替代：录下会议声音，转成文�
 - **[MentraOS](https://github.com/Mentra-Community/MentraOS)** · ★ 2.4k<br>开源智能眼镜系统，眼镜上能看实时字幕、和 AI 对话；需要它支持的眼镜型号。<br><sub>更新于 2026-11 · Apache-2.0</sub>
 - **[CyIME](https://github.com/Cyletix/CyIME)** · ★ 1.3k · 🀄 🆕<br>基于 Rime 的安卓中文输入法，支持离线语音输入和字幕模式，还有九键、双拼、五笔和手写。<br><sub>Android · 更新于 2026-11 · GPL-3.0</sub>
 - **[nomily-app](https://github.com/Nomily-Ai/nomily-app)** · ★ 1.0k · 🔑<br>录音伴侣：从 Apple Watch、iPhone 或录音设备导入音频，用你自己的服务商转写、区分说话人和写摘要，也支持本地识别端点。<br><sub>iOS / Android · 更新于 2026-11</sub>
-- **[BiBi-Keyboard](https://github.com/BryceWG/BiBi-Keyboard)** · ★ 875 · 🀄<br>说点啥：安卓上的 AI 语音输入法键盘，结合语音识别和大模型，让语音输入更自然。<br><sub>Android · 更新于 2026-11 · Apache-2.0</sub>
-- **[NotelyVoice](https://github.com/Notely-Voice/NotelyVoice)** · ★ 824 · 🔒<br>完全私密的 AI 语音转写和笔记应用，手机上用 Whisper 离线识别 100 多种语言，适合记课堂、会议和问诊。<br><sub>Android / iOS · 更新于 2026-11 · GPL-3.0</sub>
+- **[BiBi-Keyboard](https://github.com/BryceWG/BiBi-Keyboard)** · ★ 879 · 🀄<br>说点啥：安卓上的 AI 语音输入法键盘，结合语音识别和大模型，让语音输入更自然。<br><sub>Android · 更新于 2026-11 · Apache-2.0</sub>
+- **[NotelyVoice](https://github.com/Notely-Voice/NotelyVoice)** · ★ 825 · 🔒<br>完全私密的 AI 语音转写和笔记应用，手机上用 Whisper 离线识别 100 多种语言，适合记课堂、会议和问诊。<br><sub>Android / iOS · 更新于 2026-11 · GPL-3.0</sub>
 
 <a id="cat-engines"></a>
 ## 模型与引擎（开发者）
@@ -151,7 +151,7 @@ Granola、Otter、飞书妙记的开源替代：录下会议声音，转成文�
 - **[whisper](https://github.com/openai/whisper)** · ★ 112.8k<br>OpenAI 的通用语音识别模型，大多数工具都基于它或它的衍生版本。<br><sub>更新于 2026-08 · MIT</sub>
 - **[whisper.cpp](https://github.com/ggml-org/whisper.cpp)** · ★ 55.2k<br>Whisper 的 C/C++ 实现，CPU 和各种设备上都能高效运行。<br><sub>更新于 2026-11 · MIT</sub>
 - **[faster-whisper](https://github.com/SYSTRAN/faster-whisper)** · ★ 26.8k<br>基于 CTranslate2 的 Whisper 加速实现。<br><sub>更新于 2026-11 · MIT</sub>
-- **[whisperX](https://github.com/m-bain/whisperX)** · ★ 25.3k<br>Whisper 加词级时间戳和说话人分离。<br><sub>更新于 2026-11 · BSD-2-Clause</sub>
+- **[whisperX](https://github.com/m-bain/whisperX)** · ★ 25.4k<br>Whisper 加词级时间戳和说话人分离。<br><sub>更新于 2026-11 · BSD-2-Clause</sub>
 - **[FunASR](https://github.com/modelscope/FunASR)** · ★ 21.0k · 🀄<br>阿里达摩院的语音识别工具包，含流式识别、断句、标点和说话人分离，中文效果好。<br><sub>更新于 2026-11 · MIT</sub>
 - **[sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)** · ★ 16.0k<br>离线语音识别、合成、说话人分离等，支持手机、嵌入式和各种语言绑定。<br><sub>更新于 2026-11 · Apache-2.0</sub>
 - **[WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)** · ★ 11.3k<br>本地实时语音转文字服务：流式识别、说话人分离和翻译，可搭成自己的实时字幕后端。<br><sub>更新于 2026-11 · Apache-2.0</sub>

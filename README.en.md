@@ -12,7 +12,7 @@ Online classes, meetings, foreign-language streams and writing all depend on tur
 
 This list sorts these tools by task and shows, for each one, the systems it supports, whether it runs fully local, whether it needs your own API key and whether it is Chinese-friendly.
 
-69 projects · data refreshed 2026-11-15
+69 projects · data refreshed 2026-11-16
 
 ## Contents
 
@@ -65,13 +65,13 @@ Listen to whatever your computer or phone is playing and add live captions or tr
 - **[LiveCaptions-Translator](https://github.com/SakiRinn/LiveCaptions-Translator)** · ★ 4.1k<br>Windows Live Captions plus a translation API: accurate, lightweight system captions with LLM translation, no Copilot+ PC required.<br><sub>Windows · updated 2026-08 · Apache-2.0</sub><br><sub>💡 Requires Windows 11</sub>
 - **[cicada](https://github.com/wquguru/cicada)** · ★ 2.3k · 🀄 🆕<br>Cicada: live bilingual captions, interpreting and structured notes for any meeting or stream, from Tencent Meeting and Feishu to Zoom and YouTube; hold a key and the other side hears your words translated.<br><sub>macOS / Windows / Linux / Android · updated 2026-11 · Apache-2.0</sub><br><sub>💡 Fully on-device on Apple Silicon Macs; see the README for other platforms</sub>
 - **[LiveCaptions](https://github.com/abb128/LiveCaptions)** · ★ 1.8k · 🔒 💤<br>Live captions for the Linux desktop from desktop or mic audio, which is never sent anywhere.<br><sub>Linux · updated 2025-02 · GPL-3.0</sub><br><sub>💡 English only for now</sub>
-- **[LiveTranslate](https://github.com/TheDeathDragon/LiveTranslate)** · ★ 914 · 🔑<br>Real-time audio translation for Windows: captures system audio and the mic, recognizes speech locally and translates through an LLM API in a transparent overlay.<br><sub>Windows · updated 2026-08 · MIT</sub>
-- **[Mimi](https://github.com/yuxino/Mimi)** · ★ 888 · 🔑<br>Adds live translated captions to whatever video, stream or class is playing; it can listen to a single app and export captions as notes, and saves nothing by default.<br><sub>macOS / Windows / Linux / Android · updated 2026-11 · MIT</sub><br><sub>💡 Apple Silicon Macs on macOS 26+ can use on-device Apple speech; otherwise you need your own provider key</sub>
+- **[LiveTranslate](https://github.com/TheDeathDragon/LiveTranslate)** · ★ 915 · 🔑<br>Real-time audio translation for Windows: captures system audio and the mic, recognizes speech locally and translates through an LLM API in a transparent overlay.<br><sub>Windows · updated 2026-08 · MIT</sub>
+- **[Mimi](https://github.com/yuxino/Mimi)** · ★ 893 · 🔑<br>Adds live translated captions to whatever video, stream or class is playing; it can listen to a single app and export captions as notes, and saves nothing by default.<br><sub>macOS / Windows / Linux / Android · updated 2026-11 · MIT</sub><br><sub>💡 Apple Silicon Macs on macOS 26+ can use on-device Apple speech; otherwise you need your own provider key</sub>
 - **[auto-caption](https://github.com/HiMeditator/auto-caption)** · ★ 610 · 🔒 🀄<br>A cross-platform live caption overlay that runs local models such as Vosk and SenseVoice, with optional translation through Ollama or online APIs.<br><sub>Windows / macOS / Linux · updated 2026-10 · MIT</sub>
-- **[v2s](https://github.com/franklioxygen/v2s)** · ★ 513 · 🔒<br>A macOS menu-bar bilingual caption bar that can capture a single app, using Apple's on-device speech and translation, with summaries.<br><sub>macOS · updated 2026-10</sub>
+- **[v2s](https://github.com/franklioxygen/v2s)** · ★ 514 · 🔒<br>A macOS menu-bar bilingual caption bar that can capture a single app, using Apple's on-device speech and translation, with summaries.<br><sub>macOS · updated 2026-10</sub>
 - **[hayamimi](https://github.com/oboroge0/hayamimi)** · ★ 464 · 🔒<br>Multilingual real-time transcription on CPU only: live subtitles, a browser dashboard, speaker labels and translation, with no GPU or cloud API.<br><sub>updated 2026-09</sub>
-- **[AudioScript](https://github.com/niyongsheng/AudioScript)** · ★ 376 · 🔒 🀄 🆕<br>AudioScript turns system audio from podcasts, videos and meetings into floating bilingual captions, with recognition and translation done on your machine.<br><sub>macOS / Windows / Linux · updated 2026-11 · MIT</sub>
-- **[simul-subtitle](https://github.com/KorenKrita/simul-subtitle)** · ★ 119 · 🔑 🆕<br>Floating live-interpreting captions for Japanese and English videos and streams over any player; recognition runs offline on the device and translation uses your own LLM key.<br><sub>Android / macOS / Windows · updated 2026-10 · MIT</sub>
+- **[AudioScript](https://github.com/niyongsheng/AudioScript)** · ★ 381 · 🔒 🀄 🆕<br>AudioScript turns system audio from podcasts, videos and meetings into floating bilingual captions, with recognition and translation done on your machine.<br><sub>macOS / Windows / Linux · updated 2026-11 · MIT</sub>
+- **[simul-subtitle](https://github.com/KorenKrita/simul-subtitle)** · ★ 120 · 🔑 🆕<br>Floating live-interpreting captions for Japanese and English videos and streams over any player; recognition runs offline on the device and translation uses your own LLM key.<br><sub>Android / macOS / Windows · updated 2026-10 · MIT</sub>
 
 <a id="cat-meetings"></a>
 ## AI meeting notes
@@ -80,12 +80,12 @@ Open-source alternatives to Granola, Otter and similar tools: record the meeting
 
 - **[meetily](https://github.com/Zackriya-Solutions/meetily)** · ★ 32.7k · 🔒<br>A privacy-first meeting assistant that transcribes on your machine with Whisper or Parakeet and summarizes with local Ollama or providers like Claude and Groq.<br><sub>Windows / macOS / Linux · updated 2026-11 · MIT</sub><br><sub>💡 One-line install on Linux; the Windows installer needs an AVX2 CPU</sub>
 - **[anarlog](https://github.com/fastrepl/anarlog)** · ★ 9.9k<br>A local-first open-source meeting notepad and Granola alternative; the community app stays MIT-licensed.<br><sub>macOS / Windows / Linux · updated 2026-11 · MIT</sub>
-- **[yogurt](https://github.com/FrigadeHQ/yogurt)** · ★ 1.6k · 🆕<br>A free, open-source Granola alternative that records calls without a bot, transcribes live and writes summaries, with notes kept on your computer.<br><sub>macOS / Windows / Linux · updated 2026-11 · MIT</sub>
+- **[yogurt](https://github.com/FrigadeHQ/yogurt)** · ★ 1.7k · 🆕<br>A free, open-source Granola alternative that records calls without a bot, transcribes live and writes summaries, with notes kept on your computer.<br><sub>macOS / Windows / Linux · updated 2026-11 · MIT</sub>
 - **[muesli](https://github.com/Muesli-HQ/muesli)** · ★ 1.6k · 🔒<br>A native macOS app for dictation and meeting transcription, on-device by default with no meeting bot, and a plugin for ChatGPT and Codex.<br><sub>macOS · updated 2026-11 · MIT</sub>
 - **[minutes](https://github.com/silverstein/minutes)** · ★ 1.6k<br>Records and transcribes meetings, calls and voice memos on your device into Markdown you own, searchable from Claude Code, Codex or any MCP client.<br><sub>macOS / Linux · updated 2026-11 · MIT</sub>
-- **[macparakeet](https://github.com/moona3k/macparakeet)** · ★ 788 · 🔒<br>A local-first voice app for Apple Silicon Macs that combines dictation, file transcription and meeting recording.<br><sub>macOS · updated 2026-11</sub>
+- **[macparakeet](https://github.com/moona3k/macparakeet)** · ★ 789 · 🔒<br>A local-first voice app for Apple Silicon Macs that combines dictation, file transcription and meeting recording.<br><sub>macOS · updated 2026-11</sub>
 - **[VoiceFlow](https://github.com/infiniV/VoiceFlow)** · ★ 437 · 🔒<br>Local Whisper dictation for Windows and Linux, now with a meeting mode that records mic and system audio and summarizes with your own LLM.<br><sub>Windows / Linux · updated 2026-06 · MIT</sub>
-- **[DayBee](https://github.com/nexmoe/DayBee)** · ★ 430 · 🔒<br>A tray recorder for long sessions that splits and archives audio and transcribes live with Apple speech or local models such as SenseVoice and Qwen3-ASR.<br><sub>macOS · updated 2026-10</sub>
+- **[DayBee](https://github.com/nexmoe/DayBee)** · ★ 431 · 🔒<br>A tray recorder for long sessions that splits and archives audio and transcribes live with Apple speech or local models such as SenseVoice and Qwen3-ASR.<br><sub>macOS · updated 2026-10</sub>
 - **[phorminx](https://github.com/impossibleG/phorminx)** · ★ 126<br>Local-first dictation, meetings and research notes for Windows, with searchable transcripts and AI formatting without a paid AI service.<br><sub>Windows · updated 2026-10 · MIT</sub>
 - **[tingo](https://github.com/tancheng33/tingo)** · ★ 45 · 🔒 🀄 🆕<br>Tingo, a local meeting-notes tool built for Chinese: records Tencent Meeting, Feishu, Zoom and your mic, transcribes and labels speakers locally with FunASR, and links every conclusion back to the recording.<br><sub>Windows / macOS / Linux · updated 2026-11 · MIT</sub><br><sub>💡 Summaries can use DeepSeek or Qwen APIs, or local Ollama fully offline</sub>
 
@@ -95,7 +95,7 @@ Open-source alternatives to Granola, Otter and similar tools: record the meeting
 Hold a hotkey, speak, and the text appears at your cursor, often cleaned up by an LLM. Open-source alternatives to Wispr Flow and Superwhisper.
 
 - **[Handy](https://github.com/cjpais/Handy)** · ★ 38.9k · 🔒<br>Free, open-source and fully offline: press a shortcut, speak, and your words appear in any text field without anything sent to the cloud.<br><sub>Windows / macOS / Linux · updated 2026-11 · MIT</sub>
-- **[openwhispr](https://github.com/OpenWhispr/openwhispr)** · ★ 11.6k · 🔒<br>An open-source alternative to Wispr Flow and Granola for dictation, meeting transcription and notes, with local Parakeet or Whisper or your own cloud keys.<br><sub>macOS / Windows / Linux · updated 2026-11 · MIT</sub>
+- **[openwhispr](https://github.com/OpenWhispr/openwhispr)** · ★ 11.7k · 🔒<br>An open-source alternative to Wispr Flow and Granola for dictation, meeting transcription and notes, with local Parakeet or Whisper or your own cloud keys.<br><sub>macOS / Windows / Linux · updated 2026-11 · MIT</sub>
 - **[VoiceInk](https://github.com/Beingpax/VoiceInk)** · ★ 7.1k<br>A macOS voice-to-text app that transcribes almost instantly, built for privacy and speed.<br><sub>macOS · updated 2026-11</sub><br><sub>💡 Open source to build yourself; the official builds are paid with a free trial</sub>
 - **[CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline)** · ★ 7.1k · 🔒 🀄<br>Hold Caps Lock to talk, release to type: offline voice input for Windows with Chinese number formatting, hotwords and rules, plus file-to-subtitle transcription.<br><sub>Windows · updated 2026-09 · MIT</sub>
 - **[OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper)** · ★ 3.2k · 🔒<br>Real-time recording and transcription on macOS with Whisper or Parakeet and custom shortcuts.<br><sub>macOS · updated 2026-11 · MIT</sub>
@@ -108,10 +108,10 @@ Hold a hotkey, speak, and the text appears at your cursor, often cleaned up by a
 - **[hyprwhspr](https://github.com/goodroot/hyprwhspr)** · ★ 1.3k<br>Native system-wide dictation for Linux with Parakeet, Whisper, Qwen3-ASR and more, packaged for major distros.<br><sub>Linux · updated 2026-11 · MIT</sub>
 - **[voquill](https://github.com/voquill/voquill)** · ★ 1.0k<br>Cross-platform AI voice typing that dictates into any desktop app, cleans up the transcript and keeps a personal glossary in sync.<br><sub>Windows / macOS / Linux · updated 2026-11</sub>
 - **[vocalinux](https://github.com/VocaHQ/vocalinux)** · ★ 1.0k · 🔒<br>100% offline voice dictation for Linux that types anywhere, built on whisper.cpp and other engines.<br><sub>Linux · updated 2026-11 · AGPL-3.0</sub>
-- **[opentypeless](https://github.com/tover0314-w/opentypeless)** · ★ 684<br>An open-source alternative to Wispr Flow and Superwhisper for voice input, rewriting and voice Q&A, with your own keys or local Ollama.<br><sub>macOS / Windows / Linux · updated 2026-11 · MIT</sub>
-- **[betterwispr](https://github.com/opennookorg/betterwispr)** · ★ 539 · 🔒 🆕<br>Free macOS dictation: hold ⌥ Space and speak; Whisper, Parakeet or Apple speech run on your Mac, and audio leaves only if you pick a cloud option.<br><sub>macOS · updated 2026-11 · Apache-2.0</sub>
+- **[opentypeless](https://github.com/tover0314-w/opentypeless)** · ★ 686<br>An open-source alternative to Wispr Flow and Superwhisper for voice input, rewriting and voice Q&A, with your own keys or local Ollama.<br><sub>macOS / Windows / Linux · updated 2026-11 · MIT</sub>
+- **[betterwispr](https://github.com/opennookorg/betterwispr)** · ★ 540 · 🔒 🆕<br>Free macOS dictation: hold ⌥ Space and speak; Whisper, Parakeet or Apple speech run on your Mac, and audio leaves only if you pick a cloud option.<br><sub>macOS · updated 2026-11 · Apache-2.0</sub>
 - **[SayIt](https://github.com/crosswk/SayIt)** · ★ 490 · 🀄<br>Press a shortcut and speak; AI turns casual speech into written text right at your cursor.<br><sub>Windows / macOS · updated 2026-11 · AGPL-3.0</sub>
-- **[SpeakoFlow](https://github.com/AbhishekBarali/SpeakoFlow)** · ★ 402 · 🔒<br>Free, open-source voice typing and an AI assistant that runs locally by default, answers questions and can write up meeting notes.<br><sub>Windows / macOS / Linux · updated 2026-10 · MIT</sub>
+- **[SpeakoFlow](https://github.com/AbhishekBarali/SpeakoFlow)** · ★ 403 · 🔒<br>Free, open-source voice typing and an AI assistant that runs locally by default, answers questions and can write up meeting notes.<br><sub>Windows / macOS / Linux · updated 2026-10 · MIT</sub>
 
 <a id="cat-files"></a>
 ## Transcribe recordings and make subtitles
@@ -121,7 +121,7 @@ Turn lecture recordings, interviews, podcasts and videos into transcripts or sub
 - **[buzz](https://github.com/chidiwilliams/buzz)** · ★ 22.8k · 🔒<br>Transcribes and translates audio offline on your own computer with OpenAI Whisper, behind a simple GUI; one of the best-known options.<br><sub>Windows / macOS / Linux · updated 2026-11 · MIT</sub><br><sub>💡 1.4.5 is the last version for Intel Macs</sub>
 - **[vibe](https://github.com/thewh1teagle/vibe)** · ★ 8.1k · 🔒<br>Transcribes audio and video right on your device with a simple interface and several export formats.<br><sub>Windows / macOS / Linux · updated 2026-11 · MIT</sub>
 - **[FunClip](https://github.com/modelscope/FunClip)** · ★ 6.6k · 🔒 🀄<br>An open-source clipping tool from Alibaba's Tongyi lab: FunASR transcribes the video, you select text to cut the matching clips and subtitles, all locally.<br><sub>updated 2026-11 · MIT</sub>
-- **[SmartSub](https://github.com/buxuku/SmartSub)** · ★ 6.0k · 🔒 🀄<br>SmartSub, an all-in-one desktop tool for video-to-subtitles, subtitle translation, AI dubbing and burn-in, with offline Whisper or FunASR and batch processing.<br><sub>Windows / macOS / Linux · updated 2026-11 · MIT</sub>
+- **[SmartSub](https://github.com/buxuku/SmartSub)** · ★ 6.1k · 🔒 🀄<br>SmartSub, an all-in-one desktop tool for video-to-subtitles, subtitle translation, AI dubbing and burn-in, with offline Whisper or FunASR and batch processing.<br><sub>Windows / macOS / Linux · updated 2026-11 · MIT</sub>
 - **[AudioNotes](https://github.com/harry0703/AudioNotes)** · ★ 2.6k · 🔒 🀄<br>Turns meetings, interviews, lectures and voice memos into transcripts and Markdown notes you can ask questions about, locally with FunASR and Ollama.<br><sub>updated 2026-08 · MIT</sub>
 - **[aTrain](https://github.com/aTrainTranscription/aTrain)** · ★ 1.2k · 🔒<br>An offline transcription tool from University of Graz researchers for interviews and research recordings, with speaker labels and no uploads.<br><sub>Windows / macOS / Linux · updated 2026-11 · AGPL-3.0</sub>
 - **[WhisperSubTranslate](https://github.com/Blue-B/WhisperSubTranslate)** · ★ 845 · 🔒<br>Turns any video into multilingual subtitles locally: whisper.cpp makes the SRT, then a downloaded offline model or an online engine translates it.<br><sub>updated 2026-10</sub>
@@ -132,7 +132,7 @@ Turn lecture recordings, interviews, podcasts and videos into transcripts or sub
 
 - **[Translumo](https://github.com/ramjke/Translumo)** · ★ 5.9k<br>Real-time screen translation for games, hardcoded video subtitles and other on-screen text.<br><sub>updated 2026-09 · Apache-2.0</sub>
 - **[LLPlayer](https://github.com/umlx5h/LLPlayer)** · ★ 4.7k<br>A media player for language learning with dual subtitles, AI-generated subtitles, real-time translation and word lookup.<br><sub>Windows · updated 2026-11 · GPL-3.0</sub>
-- **[overlay-translator](https://github.com/ciddwd/overlay-translator)** · ★ 1.3k<br>No-root real-time screen translation for Android games, visual novels and comics, with on-device or cloud OCR and offline LLMs, drawn right over the screen.<br><sub>Android · updated 2026-10 · Apache-2.0</sub>
+- **[overlay-translator](https://github.com/ciddwd/overlay-translator)** · ★ 1.3k<br>No-root real-time screen translation for Android games, visual novels and comics, with on-device or cloud OCR and offline LLMs, drawn right over the screen.<br><sub>Android · updated 2026-11 · Apache-2.0</sub>
 
 <a id="cat-mobile"></a>
 ## Phones and smart glasses
@@ -140,8 +140,8 @@ Turn lecture recordings, interviews, podcasts and videos into transcripts or sub
 - **[MentraOS](https://github.com/Mentra-Community/MentraOS)** · ★ 2.4k<br>An open-source smart-glasses OS with live captions and AI chat on the glasses; needs a supported pair.<br><sub>updated 2026-11 · Apache-2.0</sub>
 - **[CyIME](https://github.com/Cyletix/CyIME)** · ★ 1.3k · 🀄 🆕<br>A Rime-based Chinese keyboard for Android with offline voice input and a caption mode, plus T9, double pinyin, Wubi and handwriting.<br><sub>Android · updated 2026-11 · GPL-3.0</sub>
 - **[nomily-app](https://github.com/Nomily-Ai/nomily-app)** · ★ 1.0k · 🔑<br>A recording companion that imports audio from Apple Watch, iPhone or a recorder and transcribes, labels speakers and summarizes with your own providers or a local endpoint.<br><sub>iOS / Android · updated 2026-11</sub>
-- **[BiBi-Keyboard](https://github.com/BryceWG/BiBi-Keyboard)** · ★ 875 · 🀄<br>BiBi Keyboard, an Android voice keyboard that combines speech recognition and an LLM for more natural voice input.<br><sub>Android · updated 2026-11 · Apache-2.0</sub>
-- **[NotelyVoice](https://github.com/Notely-Voice/NotelyVoice)** · ★ 824 · 🔒<br>A fully private voice transcription and notes app that runs Whisper offline on your phone in 100+ languages, for lectures, meetings and more.<br><sub>Android / iOS · updated 2026-11 · GPL-3.0</sub>
+- **[BiBi-Keyboard](https://github.com/BryceWG/BiBi-Keyboard)** · ★ 879 · 🀄<br>BiBi Keyboard, an Android voice keyboard that combines speech recognition and an LLM for more natural voice input.<br><sub>Android · updated 2026-11 · Apache-2.0</sub>
+- **[NotelyVoice](https://github.com/Notely-Voice/NotelyVoice)** · ★ 825 · 🔒<br>A fully private voice transcription and notes app that runs Whisper offline on your phone in 100+ languages, for lectures, meetings and more.<br><sub>Android / iOS · updated 2026-11 · GPL-3.0</sub>
 
 <a id="cat-engines"></a>
 ## Models and engines (for developers)
@@ -151,7 +151,7 @@ The models and libraries behind the apps above, for anyone building their own.
 - **[whisper](https://github.com/openai/whisper)** · ★ 112.8k<br>OpenAI's general speech recognition model, the base of most tools here.<br><sub>updated 2026-08 · MIT</sub>
 - **[whisper.cpp](https://github.com/ggml-org/whisper.cpp)** · ★ 55.2k<br>A C/C++ port of Whisper that runs efficiently on CPUs and many devices.<br><sub>updated 2026-11 · MIT</sub>
 - **[faster-whisper](https://github.com/SYSTRAN/faster-whisper)** · ★ 26.8k<br>A faster Whisper implementation built on CTranslate2.<br><sub>updated 2026-11 · MIT</sub>
-- **[whisperX](https://github.com/m-bain/whisperX)** · ★ 25.3k<br>Whisper with word-level timestamps and speaker diarization.<br><sub>updated 2026-11 · BSD-2-Clause</sub>
+- **[whisperX](https://github.com/m-bain/whisperX)** · ★ 25.4k<br>Whisper with word-level timestamps and speaker diarization.<br><sub>updated 2026-11 · BSD-2-Clause</sub>
 - **[FunASR](https://github.com/modelscope/FunASR)** · ★ 21.0k · 🀄<br>Alibaba DAMO's speech recognition toolkit with streaming ASR, VAD, punctuation and diarization, strong on Chinese.<br><sub>updated 2026-11 · MIT</sub>
 - **[sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)** · ★ 16.0k<br>Offline speech-to-text, text-to-speech, diarization and more, for phones, embedded boards and many languages.<br><sub>updated 2026-11 · Apache-2.0</sub>
 - **[WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit)** · ★ 11.3k<br>A local real-time speech-to-text server with streaming ASR, diarization and translation, a backend for your own live captions.<br><sub>updated 2026-11 · Apache-2.0</sub>
